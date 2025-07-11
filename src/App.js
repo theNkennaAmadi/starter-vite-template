@@ -56,6 +56,8 @@ export default class App {
       ],
     });
 
+    console.log('Swup initialized');
+
     //  Initialize scroll behavior
     // this.initScrollBehavior();
 
