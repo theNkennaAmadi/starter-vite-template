@@ -66,7 +66,6 @@ export default class App {
     // Setup the page right away for the initial load
     this.setupPage();
 
-    new Menu();
 
 
     // Run setupPage on every Swup content replacement
