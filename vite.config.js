@@ -19,7 +19,7 @@ export default defineConfig(
         },
         server: {
             cors: true,
-            allowedHosts: ['.webflow.io', '.pages.dev', '.localcan.dev'] // Adjust the allowed hosts as needed
+            allowedHosts: ['.webflow.io', 'starter-vite-template.pages.dev/', '.localcan.dev'] // Adjust the allowed hosts as needed
 
         }
     }
